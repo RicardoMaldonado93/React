@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unitary test with <HomeScreen /> should be shown correctly 1`] = `
+Array [
+  <h1>
+    HomeScreen
+  </h1>,
+  <hr />,
+  <pre>
+    {
+   "user": "Ricardo",
+   "email": "demo@demo.com"
+}
+  </pre>,
+]
+`;
